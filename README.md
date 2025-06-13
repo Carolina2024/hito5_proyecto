@@ -21,8 +21,3 @@ desarrollo y que fue lo más difícil de realizar y cómo lo resolvieron.
 Tiempo de exposición: Máximo 10 minutos, posteriormente se reservan 5 minutos para
 preguntas y apreciaciones de los espectadores. (Dado que la duración de las sesiones es de
 2 horas, los grupos serán llamados a presentar su proyecto a discreción del docente o tutor).
-
-
-
-
-# hito5_proyecto
